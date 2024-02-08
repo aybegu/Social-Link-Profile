@@ -116,5 +116,5 @@ body{
 }
 
 .attribution a {
-  color: hsl(228, 45%, 44%);
+  color: var(--Green);
 }
