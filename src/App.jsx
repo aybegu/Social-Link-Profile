@@ -9,7 +9,7 @@ function App() {
     <div className='outer'>
       <div className='container'>
         <main className='main'>
-          {/* <img src='../public/images/avatar-jessica.jpeg' className='main--avatar' alt='avatar' /> */}
+          <img src='./public/images/avatar-jessica.jpeg' className='main--avatar' alt='avatar' />
           <img src='./public/images/profile2.jpg' className='main--avatar' alt='avatar' />
           <h1 className='main--title'>Ayca Gurler</h1>
           {/* <h1 className='main--title'>Jessica Randall</h1> */}
